@@ -44,8 +44,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=argaaryadipa&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-[facebook]: https://www.instagram.com/argaarya_/
-[instagram]: https://www.facebook.com/konohagakure.aryadipa
+[facebook]: https://www.facebook.com/konohagakure.aryadipa
+[instagram]: https://www.instagram.com/argaarya_/
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=argaaryadipa&bg_color=30,5B5F97,FFC145&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argaaryadipa&bg_color=30,FF6B6C,833ab4&title_color=fff&text_color=fff&layout=compact" />

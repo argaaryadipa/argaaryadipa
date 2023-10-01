@@ -6,21 +6,21 @@
 
 
 <!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
-<h1 align="center">### Hi there, I'm Arga Aryadipa <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
+<h1 align="center">### Hola, I'm Arga Aryadipa ###<img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
   
 ![readmebox (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/34431847/258598204-a4ad0e76-297d-4387-9322-09d83c233689.svg)</h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=argaaryadipa&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=argaaryadipa)
 ## I'm a Web and mobile developer from West Nusa Tenggara, Indonesia
-- 🌱 I’m currently learning Laravel & Flutter
+- 🌱 I’m currently learning PHP
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: play games
+- ⚡ Fun fact: play games, anime
 
 ### Connect with me:
 
-[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg"/>][facebook]
-[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
+[<img align="left" alt="Arga Aryadipa | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg"/>][facebook]
+[<img align="left" alt="Arga Aryadipa | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
 
 <br />
 
@@ -44,8 +44,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=argaaryadipa&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-[facebook]: https://www.facebook.com/bi.raja.13/
-[instagram]: https://www.instagram.com/r.obbiul.013/
+[facebook]: https://www.instagram.com/argaarya_/
+[instagram]: https://www.facebook.com/konohagakure.aryadipa
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=argaaryadipa&bg_color=30,5B5F97,FFC145&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argaaryadipa&bg_color=30,FF6B6C,833ab4&title_color=fff&text_color=fff&layout=compact" />

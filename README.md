@@ -13,7 +13,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=argaaryadipa&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=argaaryadipa)
-## I'm a Web and mobile developer from West Nusa Tenggara, Indonesia
+## I'm a Web Developer from West Nusa Tenggara, Indonesia
 - 🌱 I’m currently learning PHP
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: play games, anime

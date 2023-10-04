@@ -16,7 +16,7 @@
 ## I'm a Web Developer from West Nusa Tenggara, Indonesia
 - 🌱 I’m currently learning PHP
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: play games, anime
+- ⚡ Fun fact: Play games, Anime
 
 ### Connect with me:
 

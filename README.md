@@ -15,7 +15,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=argaaryadipa)
 ## I'm a Web Developer from West Nusa Tenggara, Indonesia
 - 🌱 I’m currently learning PHP
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Play games, Anime
 
 ### Connect with me:
